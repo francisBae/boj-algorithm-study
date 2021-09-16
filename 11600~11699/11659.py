@@ -14,4 +14,4 @@ for i in range(2,N+1):
 for i in range(0,M):
     fNum, sNum = map(int, sys.stdin.readline().split())
 
-    print(f"{arr[sNum]-arr[fNum-1]}")
+    print(f"{arr[sNum]-arr[fNum-1] }")

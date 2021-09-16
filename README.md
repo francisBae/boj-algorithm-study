@@ -11,6 +11,7 @@
 | :----------: | :----------: | :----------: | :----------: | :----------: |
 | 1003 | 피보나치 수열 | [문제 바로가기](https://www.acmicpc.net/problem/1003) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1003.py) |백준 1003|
 | 2839 | 설탕 배달 | [문제 바로가기](https://www.acmicpc.net/problem/2839) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2800~2899/2839.py) |백준 2839|
+| 17626 | Four Squares | [문제 바로가기](https://www.acmicpc.net/problem/17626) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/17600~17699/17626.py) |백준 17626|
 
 ### 문자열
 |문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
@@ -28,6 +29,7 @@
 |문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
 | :----------: | :----------: | :----------: | :----------: | :----------: |
 | 2798 | 블랙잭 | [문제 바로가기](https://www.acmicpc.net/problem/2798) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2700~2799/2798.java) |백준 2798|
+| 17626 | Four Squares | [문제 바로가기](https://www.acmicpc.net/problem/17626) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/17600~17699/17626.py) |백준 17626|
 
 ### 사칙연산
 |문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
