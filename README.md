@@ -13,12 +13,17 @@
 | 2839 | 설탕 배달 | [문제 바로가기](https://www.acmicpc.net/problem/2839) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2800~2899/2839.py) |백준 2839|
 | 17626 | Four Squares | [문제 바로가기](https://www.acmicpc.net/problem/17626) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/17600~17699/17626.py) |백준 17626|
 
+### BFS
+|문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
+| :----------: | :----------: | :----------: | :----------: | :----------: |
+| 14502 | 연구소 | [문제 바로가기](https://www.acmicpc.net/problem/14502) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/14500~14599/14502.py) |백준 14502|
+
 ### 문자열
 |문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
 | :----------: | :----------: | :----------: | :----------: | :----------: |
 | 1152 | 단어의 개수 | [문제 바로가기](https://www.acmicpc.net/problem/1152) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1100~1199/1152.py) |백준 1152|
 
-#구현
+### 구현
 |문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
 | :----------: | :----------: | :----------: | :----------: | :----------: |
 | 1986 | 체스 | [문제 바로가기](https://www.acmicpc.net/problem/1986) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1900~1999/1986.py) |백준 1986|
@@ -35,6 +40,7 @@
 |문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
 | :----------: | :----------: | :----------: | :----------: | :----------: |
 | 2798 | 블랙잭 | [문제 바로가기](https://www.acmicpc.net/problem/2798) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2700~2799/2798.java) |백준 2798|
+| 14502 | 연구소 | [문제 바로가기](https://www.acmicpc.net/problem/14502) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/14500~14599/14502.py) |백준 14502|
 | 17626 | Four Squares | [문제 바로가기](https://www.acmicpc.net/problem/17626) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/17600~17699/17626.py) |백준 17626|
 
 ### 사칙연산
@@ -52,6 +58,12 @@
 |문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
 | :----------: | :----------: | :----------: | :----------: | :----------: |
 | 11403 | 경로 찾기 | [문제 바로가기](https://www.acmicpc.net/problem/11403) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/11400~11499/11403.py) |백준 11403|
+| 14502 | 연구소 | [문제 바로가기](https://www.acmicpc.net/problem/14502) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/14500~14599/14502.py) |백준 14502|
+
+### 그래프 탐색
+|문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
+| :----------: | :----------: | :----------: | :----------: | :----------: |
+| 14502 | 연구소 | [문제 바로가기](https://www.acmicpc.net/problem/14502) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/14500~14599/14502.py) |백준 14502|
 
 ### 플로이드-와샬
 |문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
