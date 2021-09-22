@@ -27,6 +27,7 @@
 |문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
 | :----------: | :----------: | :----------: | :----------: | :----------: |
 | 1986 | 체스 | [문제 바로가기](https://www.acmicpc.net/problem/1986) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1900~1999/1986.py) |백준 1986|
+| 15683 | 감시 | [문제 바로가기](https://www.acmicpc.net/problem/15683) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/15600~15699/15683.py) |백준 15683|
 
 ### 그리디 알고리즘
 
@@ -40,6 +41,7 @@
 | :----------: | :----------: | :----------: | :----------: | :----------: |
 | 2798 | 블랙잭 | [문제 바로가기](https://www.acmicpc.net/problem/2798) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2700~2799/2798.java) |백준 2798|
 | 14502 | 연구소 | [문제 바로가기](https://www.acmicpc.net/problem/14502) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/14500~14599/14502.py) |백준 14502|
+| 15683 | 감시 | [문제 바로가기](https://www.acmicpc.net/problem/15683) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/15600~15699/15683.py) |백준 15683|
 | 17626 | Four Squares | [문제 바로가기](https://www.acmicpc.net/problem/17626) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/17600~17699/17626.py) |백준 17626|
 
 ### 사칙연산
@@ -83,3 +85,8 @@
 |문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
 | :----------: | :----------: | :----------: | :----------: | :----------: |
 | 1920 | 수 찾기 | [문제 바로가기](https://www.acmicpc.net/problem/1920) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1900~1999/1920.py) |백준 1920|
+
+### 시뮬레이션
+|문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
+| :----------: | :----------: | :----------: | :----------: | :----------: |
+| 15683 | 감시 | [문제 바로가기](https://www.acmicpc.net/problem/15683) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/15600~15699/15683.py) |백준 15683|
