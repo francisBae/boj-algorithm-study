@@ -3,6 +3,27 @@
 
 <br>
 
+## 문제 리스트
+
+<b>
+
+[1003](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1003.py)
+[1152](https://github.com/francisBae/boj-algorithm-study/blob/master/1100~1199/1152.py)
+[1920](https://github.com/francisBae/boj-algorithm-study/blob/master/1900~1999/1920.py)
+[1986](https://github.com/francisBae/boj-algorithm-study/blob/master/1900~1999/1986.py)
+[2798](https://github.com/francisBae/boj-algorithm-study/blob/master/2700~2799/2798.java)
+[2839](https://github.com/francisBae/boj-algorithm-study/blob/master/2800~2899/2839.py)
+[2884](https://github.com/francisBae/boj-algorithm-study/blob/master/2800~2899/2884.py)
+[3190](https://github.com/francisBae/boj-algorithm-study/blob/master/3100~3199/3190.py)
+[11403](https://github.com/francisBae/boj-algorithm-study/blob/master/11400~11499/11403.py)
+[13458](https://github.com/francisBae/boj-algorithm-study/blob/master/13400~13499/13458.py)
+[14502](https://github.com/francisBae/boj-algorithm-study/blob/master/14500~14599/14502.py)
+[15683](https://github.com/francisBae/boj-algorithm-study/blob/master/15600~15699/15683.py)
+[17219](https://github.com/francisBae/boj-algorithm-study/blob/master/17200~17299/17299.py)
+[17626](https://github.com/francisBae/boj-algorithm-study/blob/master/17600~17699/17626.py)
+
+</b>
+
 ## 문제 분류
 
 ### 다이나믹 프로그래밍
@@ -27,6 +48,7 @@
 |문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
 | :----------: | :----------: | :----------: | :----------: | :----------: |
 | 1986 | 체스 | [문제 바로가기](https://www.acmicpc.net/problem/1986) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1900~1999/1986.py) |백준 1986|
+| 3190 | 뱀 | [문제 바로가기](https://www.acmicpc.net/problem/3190) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/3100~3199/3190.py) |백준 3190|
 | 15683 | 감시 | [문제 바로가기](https://www.acmicpc.net/problem/15683) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/15600~15699/15683.py) |백준 15683|
 
 ### 그리디 알고리즘
@@ -74,6 +96,7 @@
 ### 자료 구조
 |문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
 | :----------: | :----------: | :----------: | :----------: | :----------: |
+| 3190 | 뱀 | [문제 바로가기](https://www.acmicpc.net/problem/3190) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/3100~3199/3190.py) |백준 3190|
 | 17219 | 비밀번호 찾기 | [문제 바로가기](https://www.acmicpc.net/problem/17219) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/17200~17299/17299.py) |백준 17219|
 
 ### 해시를 사용한 집합과 맵
@@ -89,4 +112,15 @@
 ### 시뮬레이션
 |문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
 | :----------: | :----------: | :----------: | :----------: | :----------: |
+| 3190 | 뱀 | [문제 바로가기](https://www.acmicpc.net/problem/3190) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/3100~3199/3190.py) |백준 3190|
 | 15683 | 감시 | [문제 바로가기](https://www.acmicpc.net/problem/15683) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/15600~15699/15683.py) |백준 15683|
+
+### 덱
+|문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
+| :----------: | :----------: | :----------: | :----------: | :----------: |
+| 3190 | 뱀 | [문제 바로가기](https://www.acmicpc.net/problem/3190) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/3100~3199/3190.py) |백준 3190|
+
+### 큐
+|문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
+| :----------: | :----------: | :----------: | :----------: | :----------: |
+| 3190 | 뱀 | [문제 바로가기](https://www.acmicpc.net/problem/3190) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/3100~3199/3190.py) |백준 3190|
