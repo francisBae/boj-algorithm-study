@@ -16,6 +16,7 @@
 [1152](https://github.com/francisBae/boj-algorithm-study/blob/master/1100~1199/1152.py)
 [1500](https://github.com/francisBae/boj-algorithm-study/blob/master/1500~1599/1500.py)
 [1747](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1747.py)
+[1759](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1759.py)
 [1920](https://github.com/francisBae/boj-algorithm-study/blob/master/1900~1999/1920.py)
 [1986](https://github.com/francisBae/boj-algorithm-study/blob/master/1900~1999/1986.py)
 [2739](https://github.com/francisBae/boj-algorithm-study/blob/master/2700~2799/2739.py)
@@ -75,6 +76,7 @@
 | 1051 | 숫자 정사각형 | [문제 바로가기](https://www.acmicpc.net/problem/1051) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1051.py) |백준 1051|
 | 1058 | 친구 | [문제 바로가기](https://www.acmicpc.net/problem/1058) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1058.py) |백준 1058|
 | 1747 | 소수&팰린드롬 | [문제 바로가기](https://www.acmicpc.net/problem/1747) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1747.py) |백준 1747|
+| 1759 | 암호 만들기 | [문제 바로가기](https://www.acmicpc.net/problem/1759) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1759.py) |백준 1759|
 | 2798 | 블랙잭 | [문제 바로가기](https://www.acmicpc.net/problem/2798) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2700~2799/2798.java) |백준 2798|
 | 14502 | 연구소 | [문제 바로가기](https://www.acmicpc.net/problem/14502) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/14500~14599/14502.py) |백준 14502|
 | 15683 | 감시 | [문제 바로가기](https://www.acmicpc.net/problem/15683) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/15600~15699/15683.py) |백준 15683|
@@ -93,6 +95,7 @@
 | 1016 | 제곱ㄴㄴ수 | [문제 바로가기](https://www.acmicpc.net/problem/1016) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1016.py) |백준 1016|
 | 1500 | 최대 곱 | [문제 바로가기](https://www.acmicpc.net/problem/1500) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1500~1599/1500.py) |백준 1500|
 | 1747 | 소수&팰린드롬 | [문제 바로가기](https://www.acmicpc.net/problem/1747) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1747.py) |백준 1747|
+| 1759 | 암호 만들기 | [문제 바로가기](https://www.acmicpc.net/problem/1759) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1759.py) |백준 1759|
 | 2739 | 구구단 | [문제 바로가기](https://www.acmicpc.net/problem/2739) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2700~2799/2739.py) |백준 2739|
 | 2884 | 알람 시계 | [문제 바로가기](https://www.acmicpc.net/problem/2884) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2800~2899/2884.py) |백준 2884|
 | 13458 | 시험 감독 | [문제 바로가기](https://www.acmicpc.net/problem/13458) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/13400~13499/13458.py) |백준 13458|
@@ -170,3 +173,13 @@
 |문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
 | :----------: | :----------: | :----------: | :----------: | :----------: |
 | 1058 | 친구 | [문제 바로가기](https://www.acmicpc.net/problem/1058) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1058.py) |백준 1058|
+
+### 조합론
+|문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
+| :----------: | :----------: | :----------: | :----------: | :----------: |
+| 1759 | 암호 만들기 | [문제 바로가기](https://www.acmicpc.net/problem/1759) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1759.py) |백준 1759|
+
+### 백트래킹
+|문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
+| :----------: | :----------: | :----------: | :----------: | :----------: |
+| 1759 | 암호 만들기 | [문제 바로가기](https://www.acmicpc.net/problem/1759) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1759.py) |백준 1759|
