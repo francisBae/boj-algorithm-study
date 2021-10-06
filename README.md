@@ -11,6 +11,7 @@
 [1009](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1009.py)
 [1016](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1016.py)
 [1051](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1051.py)
+[1058](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1058.py)
 [1076](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1076.py)
 [1152](https://github.com/francisBae/boj-algorithm-study/blob/master/1100~1199/1152.py)
 [1500](https://github.com/francisBae/boj-algorithm-study/blob/master/1500~1599/1500.py)
@@ -72,6 +73,7 @@
 |문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
 | :----------: | :----------: | :----------: | :----------: | :----------: |
 | 1051 | 숫자 정사각형 | [문제 바로가기](https://www.acmicpc.net/problem/1051) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1051.py) |백준 1051|
+| 1058 | 친구 | [문제 바로가기](https://www.acmicpc.net/problem/1058) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1058.py) |백준 1058|
 | 1747 | 소수&팰린드롬 | [문제 바로가기](https://www.acmicpc.net/problem/1747) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1747.py) |백준 1747|
 | 2798 | 블랙잭 | [문제 바로가기](https://www.acmicpc.net/problem/2798) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2700~2799/2798.java) |백준 2798|
 | 14502 | 연구소 | [문제 바로가기](https://www.acmicpc.net/problem/14502) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/14500~14599/14502.py) |백준 14502|
@@ -98,17 +100,20 @@
 ### 그래프 이론
 |문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
 | :----------: | :----------: | :----------: | :----------: | :----------: |
+| 1058 | 친구 | [문제 바로가기](https://www.acmicpc.net/problem/1058) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1058.py) |백준 1058|
 | 11403 | 경로 찾기 | [문제 바로가기](https://www.acmicpc.net/problem/11403) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/11400~11499/11403.py) |백준 11403|
 | 14502 | 연구소 | [문제 바로가기](https://www.acmicpc.net/problem/14502) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/14500~14599/14502.py) |백준 14502|
 
 ### 그래프 탐색
 |문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
 | :----------: | :----------: | :----------: | :----------: | :----------: |
+| 1058 | 친구 | [문제 바로가기](https://www.acmicpc.net/problem/1058) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1058.py) |백준 1058|
 | 14502 | 연구소 | [문제 바로가기](https://www.acmicpc.net/problem/14502) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/14500~14599/14502.py) |백준 14502|
 
 ### 플로이드-와샬
 |문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
 | :----------: | :----------: | :----------: | :----------: | :----------: |
+| 1058 | 친구 | [문제 바로가기](https://www.acmicpc.net/problem/1058) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1058.py) |백준 1058|
 | 11403 | 경로 찾기 | [문제 바로가기](https://www.acmicpc.net/problem/11403) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/11400~11499/11403.py) |백준 11403|
 
 ### 자료 구조
@@ -160,3 +165,8 @@
 | :----------: | :----------: | :----------: | :----------: | :----------: |
 | 1016 | 제곱ㄴㄴ수 | [문제 바로가기](https://www.acmicpc.net/problem/1016) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1016.py) |백준 1016|
 | 1747 | 소수&팰린드롬 | [문제 바로가기](https://www.acmicpc.net/problem/1747) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1747.py) |백준 1747|
+
+### 깊이 우선 탐색
+|문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
+| :----------: | :----------: | :----------: | :----------: | :----------: |
+| 1058 | 친구 | [문제 바로가기](https://www.acmicpc.net/problem/1058) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1058.py) |백준 1058|
