@@ -8,8 +8,10 @@
 <b>
 
 [1003](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1003.py)
+[1008](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1008.py)
 [1009](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1009.py)
 [1016](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1016.py)
+[1024](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1024.py)
 [1051](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1051.py)
 [1058](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1058.py)
 [1076](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1076.py)
@@ -55,6 +57,7 @@
 ### 구현
 |문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
 | :----------: | :----------: | :----------: | :----------: | :----------: |
+| 1008 | A/B | [문제 바로가기](https://www.acmicpc.net/problem/1008) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1008.py) |백준 1008|
 | 1009 | 분산처리 | [문제 바로가기](https://www.acmicpc.net/problem/1009) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1009.py) |백준 1009|
 | 1051 | 숫자 정사각형 | [문제 바로가기](https://www.acmicpc.net/problem/1051) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1051.py) |백준 1051|
 | 1076 | 저항 | [문제 바로가기](https://www.acmicpc.net/problem/1076) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1076.py) |백준 1076|
@@ -85,14 +88,17 @@
 ### 사칙연산
 |문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
 | :----------: | :----------: | :----------: | :----------: | :----------: |
+| 1008 | A/B | [문제 바로가기](https://www.acmicpc.net/problem/1008) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1008.py) |백준 1008|
 | 2739 | 구구단 | [문제 바로가기](https://www.acmicpc.net/problem/2739) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2700~2799/2739.py) |백준 2739|
 | 2884 | 알람 시계 | [문제 바로가기](https://www.acmicpc.net/problem/2884) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2800~2899/2884.py) |백준 2884|
 
 ### 수학
 |문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
 | :----------: | :----------: | :----------: | :----------: | :----------: |
+| 1008 | A/B | [문제 바로가기](https://www.acmicpc.net/problem/1008) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1008.py) |백준 1008|
 | 1009 | 분산처리 | [문제 바로가기](https://www.acmicpc.net/problem/1009) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1009.py) |백준 1009|
 | 1016 | 제곱ㄴㄴ수 | [문제 바로가기](https://www.acmicpc.net/problem/1016) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1016.py) |백준 1016|
+| 1024 | 수열의 합 | [문제 바로가기](https://www.acmicpc.net/problem/1024) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1024.py) |백준 1024|
 | 1500 | 최대 곱 | [문제 바로가기](https://www.acmicpc.net/problem/1500) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1500~1599/1500.py) |백준 1500|
 | 1747 | 소수&팰린드롬 | [문제 바로가기](https://www.acmicpc.net/problem/1747) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1747.py) |백준 1747|
 | 1759 | 암호 만들기 | [문제 바로가기](https://www.acmicpc.net/problem/1759) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1759.py) |백준 1759|
