@@ -20,6 +20,7 @@
 [1152](https://github.com/francisBae/boj-algorithm-study/blob/master/1100~1199/1152.py)
 [1181](https://github.com/francisBae/boj-algorithm-study/blob/master/1100~1199/1181.py)
 [1251](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1251.py)
+[1463](https://github.com/francisBae/boj-algorithm-study/blob/master/1400~1499/1463.py)
 [1500](https://github.com/francisBae/boj-algorithm-study/blob/master/1500~1599/1500.py)
 [1747](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1747.py)
 [1759](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1759.py)
@@ -46,6 +47,7 @@
 | :----------: | :----------: | :----------: | :----------: | :----------: |
 | 1003 | 피보나치 수열 | [문제 바로가기](https://www.acmicpc.net/problem/1003) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1003.py) |백준 1003|
 | 1010 | 다리 놓기 | [문제 바로가기](https://www.acmicpc.net/problem/1010) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1010.py) |백준 1010|
+| 1463 | 1로 만들기 | [문제 바로가기](https://www.acmicpc.net/problem/1463) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1400~1499/1463.py) |백준 1463|
 | 2839 | 설탕 배달 | [문제 바로가기](https://www.acmicpc.net/problem/2839) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2800~2899/2839.py) |백준 2839|
 | 17626 | Four Squares | [문제 바로가기](https://www.acmicpc.net/problem/17626) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/17600~17699/17626.py) |백준 17626|
 
