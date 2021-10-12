@@ -20,10 +20,12 @@
 [1152](https://github.com/francisBae/boj-algorithm-study/blob/master/1100~1199/1152.py)
 [1181](https://github.com/francisBae/boj-algorithm-study/blob/master/1100~1199/1181.py)
 [1251](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1251.py)
+[1267](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1267.py)
 [1463](https://github.com/francisBae/boj-algorithm-study/blob/master/1400~1499/1463.py)
 [1500](https://github.com/francisBae/boj-algorithm-study/blob/master/1500~1599/1500.py)
 [1747](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1747.py)
 [1759](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1759.py)
+[1764](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1764.py)
 [1920](https://github.com/francisBae/boj-algorithm-study/blob/master/1900~1999/1920.py)
 [1986](https://github.com/francisBae/boj-algorithm-study/blob/master/1900~1999/1986.py)
 [2739](https://github.com/francisBae/boj-algorithm-study/blob/master/2700~2799/2739.py)
@@ -61,6 +63,7 @@
 | :----------: | :----------: | :----------: | :----------: | :----------: |
 | 1152 | 단어의 개수 | [문제 바로가기](https://www.acmicpc.net/problem/1152) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1100~1199/1152.py) |백준 1152|
 | 1251 | 단어 나누기 | [문제 바로가기](https://www.acmicpc.net/problem/1251) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1251.py) |백준 1251|
+| 1764 | 듣보잡 | [문제 바로가기](https://www.acmicpc.net/problem/1764) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1764.py) |백준 1764|
 
 ### 구현
 |문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
@@ -99,6 +102,7 @@
 |문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
 | :----------: | :----------: | :----------: | :----------: | :----------: |
 | 1008 | A/B | [문제 바로가기](https://www.acmicpc.net/problem/1008) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1008.py) |백준 1008|
+| 1267 | 핸드폰 요금 | [문제 바로가기](https://www.acmicpc.net/problem/1267) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1267.py) |백준 1267|
 | 2739 | 구구단 | [문제 바로가기](https://www.acmicpc.net/problem/2739) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2700~2799/2739.py) |백준 2739|
 | 2884 | 알람 시계 | [문제 바로가기](https://www.acmicpc.net/problem/2884) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2800~2899/2884.py) |백준 2884|
 
@@ -111,6 +115,7 @@
 | 1016 | 제곱ㄴㄴ수 | [문제 바로가기](https://www.acmicpc.net/problem/1016) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1016.py) |백준 1016|
 | 1024 | 수열의 합 | [문제 바로가기](https://www.acmicpc.net/problem/1024) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1024.py) |백준 1024|
 | 1037 | 약수 | [문제 바로가기](https://www.acmicpc.net/problem/1037) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1037.py) |백준 1037|
+| 1267 | 핸드폰 요금 | [문제 바로가기](https://www.acmicpc.net/problem/1267) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1267.py) |백준 1267|
 | 1500 | 최대 곱 | [문제 바로가기](https://www.acmicpc.net/problem/1500) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1500~1599/1500.py) |백준 1500|
 | 1747 | 소수&팰린드롬 | [문제 바로가기](https://www.acmicpc.net/problem/1747) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1747.py) |백준 1747|
 | 1759 | 암호 만들기 | [문제 바로가기](https://www.acmicpc.net/problem/1759) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1759.py) |백준 1759|
@@ -140,6 +145,7 @@
 ### 자료 구조
 |문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
 | :----------: | :----------: | :----------: | :----------: | :----------: |
+| 1764 | 듣보잡 | [문제 바로가기](https://www.acmicpc.net/problem/1764) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1764.py) |백준 1764|
 | 3190 | 뱀 | [문제 바로가기](https://www.acmicpc.net/problem/3190) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/3100~3199/3190.py) |백준 3190|
 | 17219 | 비밀번호 찾기 | [문제 바로가기](https://www.acmicpc.net/problem/17219) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/17200~17299/17299.py) |백준 17219|
 
@@ -210,3 +216,9 @@
 | 1037 | 약수 | [문제 바로가기](https://www.acmicpc.net/problem/1037) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1037.py) |백준 1037|
 | 1181 | 단어 정렬 | [문제 바로가기](https://www.acmicpc.net/problem/1181) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1100~1199/1181.py) |백준 1181|
 | 1251 | 단어 나누기 | [문제 바로가기](https://www.acmicpc.net/problem/1251) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1251.py) |백준 1251|
+| 1764 | 듣보잡 | [문제 바로가기](https://www.acmicpc.net/problem/1764) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1764.py) |백준 1764|
+
+### 해시를 사용한 집합과 맵
+|문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
+| :----------: | :----------: | :----------: | :----------: | :----------: |
+| 1764 | 듣보잡 | [문제 바로가기](https://www.acmicpc.net/problem/1764) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1764.py) |백준 1764|
