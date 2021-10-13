@@ -28,6 +28,7 @@
 [1764](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1764.py)
 [1920](https://github.com/francisBae/boj-algorithm-study/blob/master/1900~1999/1920.py)
 [1986](https://github.com/francisBae/boj-algorithm-study/blob/master/1900~1999/1986.py)
+[2581](https://github.com/francisBae/boj-algorithm-study/blob/master/2500~2599/2581.py)
 [2739](https://github.com/francisBae/boj-algorithm-study/blob/master/2700~2799/2739.py)
 [2798](https://github.com/francisBae/boj-algorithm-study/blob/master/2700~2799/2798.java)
 [2839](https://github.com/francisBae/boj-algorithm-study/blob/master/2800~2899/2839.py)
@@ -119,6 +120,7 @@
 | 1500 | 최대 곱 | [문제 바로가기](https://www.acmicpc.net/problem/1500) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1500~1599/1500.py) |백준 1500|
 | 1747 | 소수&팰린드롬 | [문제 바로가기](https://www.acmicpc.net/problem/1747) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1747.py) |백준 1747|
 | 1759 | 암호 만들기 | [문제 바로가기](https://www.acmicpc.net/problem/1759) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1759.py) |백준 1759|
+| 2581 | 소수 | [문제 바로가기](https://www.acmicpc.net/problem/2581) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2500~2599/2581.py) |백준 2581|
 | 2739 | 구구단 | [문제 바로가기](https://www.acmicpc.net/problem/2739) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2700~2799/2739.py) |백준 2739|
 | 2884 | 알람 시계 | [문제 바로가기](https://www.acmicpc.net/problem/2884) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2800~2899/2884.py) |백준 2884|
 | 13458 | 시험 감독 | [문제 바로가기](https://www.acmicpc.net/problem/13458) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/13400~13499/13458.py) |백준 13458|
@@ -181,12 +183,14 @@
 | 1016 | 제곱ㄴㄴ수 | [문제 바로가기](https://www.acmicpc.net/problem/1016) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1016.py) |백준 1016|
 | 1037 | 약수 | [문제 바로가기](https://www.acmicpc.net/problem/1037) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1037.py) |백준 1037|
 | 1747 | 소수&팰린드롬 | [문제 바로가기](https://www.acmicpc.net/problem/1747) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1747.py) |백준 1747|
+| 2581 | 소수 | [문제 바로가기](https://www.acmicpc.net/problem/2581) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2500~2599/2581.py) |백준 2581|
 
 ### 소수 판정
 |문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
 | :----------: | :----------: | :----------: | :----------: | :----------: |
 | 1016 | 제곱ㄴㄴ수 | [문제 바로가기](https://www.acmicpc.net/problem/1016) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1016.py) |백준 1016|
 | 1747 | 소수&팰린드롬 | [문제 바로가기](https://www.acmicpc.net/problem/1747) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1747.py) |백준 1747|
+| 2581 | 소수 | [문제 바로가기](https://www.acmicpc.net/problem/2581) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2500~2599/2581.py) |백준 2581|
 
 ### 에라토스테네스의 체
 |문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
