@@ -31,6 +31,7 @@
 [1986](https://github.com/francisBae/boj-algorithm-study/blob/master/1900~1999/1986.py)
 [2581](https://github.com/francisBae/boj-algorithm-study/blob/master/2500~2599/2581.py)
 [2739](https://github.com/francisBae/boj-algorithm-study/blob/master/2700~2799/2739.py)
+[2753](https://github.com/francisBae/boj-algorithm-study/blob/master/2700~2799/2753.py)
 [2798](https://github.com/francisBae/boj-algorithm-study/blob/master/2700~2799/2798.java)
 [2839](https://github.com/francisBae/boj-algorithm-study/blob/master/2800~2899/2839.py)
 [2884](https://github.com/francisBae/boj-algorithm-study/blob/master/2800~2899/2884.py)
@@ -81,6 +82,7 @@
 | 1251 | 단어 나누기 | [문제 바로가기](https://www.acmicpc.net/problem/1251) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1251.py) |백준 1251|
 | 1986 | 체스 | [문제 바로가기](https://www.acmicpc.net/problem/1986) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1900~1999/1986.py) |백준 1986|
 | 2739 | 구구단 | [문제 바로가기](https://www.acmicpc.net/problem/2739) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2700~2799/2739.py) |백준 2739|
+| 2753 | 윤년 | [문제 바로가기](https://www.acmicpc.net/problem/2753) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2700~2799/2753.py) |백준 2753|
 | 3190 | 뱀 | [문제 바로가기](https://www.acmicpc.net/problem/3190) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/3100~3199/3190.py) |백준 3190|
 | 10869 | 사칙연산 | [문제 바로가기](https://www.acmicpc.net/problem/10869) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/10800~10899/10869.py) |백준 10869|
 | 10871 | X보다 작은 수 | [문제 바로가기](https://www.acmicpc.net/problem/10871) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/10800~10899/10871.py) |백준 10871|
@@ -129,6 +131,7 @@
 | 1500 | 최대 곱 | [문제 바로가기](https://www.acmicpc.net/problem/1500) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1500~1599/1500.py) |백준 1500|
 | 1747 | 소수&팰린드롬 | [문제 바로가기](https://www.acmicpc.net/problem/1747) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1747.py) |백준 1747|
 | 1759 | 암호 만들기 | [문제 바로가기](https://www.acmicpc.net/problem/1759) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1759.py) |백준 1759|
+| 2753 | 윤년 | [문제 바로가기](https://www.acmicpc.net/problem/2753) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2700~2799/2753.py) |백준 2753|
 | 2581 | 소수 | [문제 바로가기](https://www.acmicpc.net/problem/2581) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2500~2599/2581.py) |백준 2581|
 | 2739 | 구구단 | [문제 바로가기](https://www.acmicpc.net/problem/2739) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2700~2799/2739.py) |백준 2739|
 | 2884 | 알람 시계 | [문제 바로가기](https://www.acmicpc.net/problem/2884) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2800~2899/2884.py) |백준 2884|
