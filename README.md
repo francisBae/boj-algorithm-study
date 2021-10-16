@@ -39,6 +39,7 @@
 [10869](https://github.com/francisBae/boj-algorithm-study/blob/master/10800~10899/10869.py)
 [10871](https://github.com/francisBae/boj-algorithm-study/blob/master/10800~10899/10871.py)
 [11403](https://github.com/francisBae/boj-algorithm-study/blob/master/11400~11499/11403.py)
+[11720](https://github.com/francisBae/boj-algorithm-study/blob/master/11700~11799/11720.py)
 [13458](https://github.com/francisBae/boj-algorithm-study/blob/master/13400~13499/13458.py)
 [14502](https://github.com/francisBae/boj-algorithm-study/blob/master/14500~14599/14502.py)
 [15683](https://github.com/francisBae/boj-algorithm-study/blob/master/15600~15699/15683.py)
@@ -70,6 +71,7 @@
 | 1225 | 이상한 곱셈 | [문제 바로가기](https://www.acmicpc.net/problem/1225) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1225.py) |백준 1225|
 | 1251 | 단어 나누기 | [문제 바로가기](https://www.acmicpc.net/problem/1251) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1251.py) |백준 1251|
 | 1764 | 듣보잡 | [문제 바로가기](https://www.acmicpc.net/problem/1764) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1764.py) |백준 1764|
+| 11720 | 숫자의 합 | [문제 바로가기](https://www.acmicpc.net/problem/11720) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/11700~11799/11720.py) |백준 11720|
 
 ### 구현
 |문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
@@ -116,6 +118,7 @@
 | 2739 | 구구단 | [문제 바로가기](https://www.acmicpc.net/problem/2739) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2700~2799/2739.py) |백준 2739|
 | 2884 | 알람 시계 | [문제 바로가기](https://www.acmicpc.net/problem/2884) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2800~2899/2884.py) |백준 2884|
 | 10869 | 사칙연산 | [문제 바로가기](https://www.acmicpc.net/problem/10869) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/10800~10899/10869.py) |백준 10869|
+| 11720 | 숫자의 합 | [문제 바로가기](https://www.acmicpc.net/problem/11720) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/11700~11799/11720.py) |백준 11720|
 
 ### 수학
 |문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
@@ -137,6 +140,7 @@
 | 2884 | 알람 시계 | [문제 바로가기](https://www.acmicpc.net/problem/2884) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2800~2899/2884.py) |백준 2884|
 | 10869 | 사칙연산 | [문제 바로가기](https://www.acmicpc.net/problem/10869) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/10800~10899/10869.py) |백준 10869|
 | 10871 | X보다 작은 수 | [문제 바로가기](https://www.acmicpc.net/problem/10871) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/10800~10899/10871.py) |백준 10871|
+| 11720 | 숫자의 합 | [문제 바로가기](https://www.acmicpc.net/problem/11720) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/11700~11799/11720.py) |백준 11720|
 | 13458 | 시험 감독 | [문제 바로가기](https://www.acmicpc.net/problem/13458) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/13400~13499/13458.py) |백준 13458|
 
 ### 그래프 이론
