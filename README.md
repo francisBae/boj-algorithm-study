@@ -35,6 +35,7 @@
 [2839](https://github.com/francisBae/boj-algorithm-study/blob/master/2800~2899/2839.py)
 [2884](https://github.com/francisBae/boj-algorithm-study/blob/master/2800~2899/2884.py)
 [3190](https://github.com/francisBae/boj-algorithm-study/blob/master/3100~3199/3190.py)
+[10869](https://github.com/francisBae/boj-algorithm-study/blob/master/10800~10899/10869.py)
 [10871](https://github.com/francisBae/boj-algorithm-study/blob/master/10800~10899/10871.py)
 [11403](https://github.com/francisBae/boj-algorithm-study/blob/master/11400~11499/11403.py)
 [13458](https://github.com/francisBae/boj-algorithm-study/blob/master/13400~13499/13458.py)
@@ -81,6 +82,7 @@
 | 1986 | 체스 | [문제 바로가기](https://www.acmicpc.net/problem/1986) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1900~1999/1986.py) |백준 1986|
 | 2739 | 구구단 | [문제 바로가기](https://www.acmicpc.net/problem/2739) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2700~2799/2739.py) |백준 2739|
 | 3190 | 뱀 | [문제 바로가기](https://www.acmicpc.net/problem/3190) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/3100~3199/3190.py) |백준 3190|
+| 10869 | 사칙연산 | [문제 바로가기](https://www.acmicpc.net/problem/10869) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/10800~10899/10869.py) |백준 10869|
 | 10871 | X보다 작은 수 | [문제 바로가기](https://www.acmicpc.net/problem/10871) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/10800~10899/10871.py) |백준 10871|
 | 15683 | 감시 | [문제 바로가기](https://www.acmicpc.net/problem/15683) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/15600~15699/15683.py) |백준 15683|
 
@@ -111,6 +113,7 @@
 | 1267 | 핸드폰 요금 | [문제 바로가기](https://www.acmicpc.net/problem/1267) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1267.py) |백준 1267|
 | 2739 | 구구단 | [문제 바로가기](https://www.acmicpc.net/problem/2739) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2700~2799/2739.py) |백준 2739|
 | 2884 | 알람 시계 | [문제 바로가기](https://www.acmicpc.net/problem/2884) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2800~2899/2884.py) |백준 2884|
+| 10869 | 사칙연산 | [문제 바로가기](https://www.acmicpc.net/problem/10869) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/10800~10899/10869.py) |백준 10869|
 
 ### 수학
 |문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
@@ -129,6 +132,7 @@
 | 2581 | 소수 | [문제 바로가기](https://www.acmicpc.net/problem/2581) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2500~2599/2581.py) |백준 2581|
 | 2739 | 구구단 | [문제 바로가기](https://www.acmicpc.net/problem/2739) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2700~2799/2739.py) |백준 2739|
 | 2884 | 알람 시계 | [문제 바로가기](https://www.acmicpc.net/problem/2884) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2800~2899/2884.py) |백준 2884|
+| 10869 | 사칙연산 | [문제 바로가기](https://www.acmicpc.net/problem/10869) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/10800~10899/10869.py) |백준 10869|
 | 10871 | X보다 작은 수 | [문제 바로가기](https://www.acmicpc.net/problem/10871) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/10800~10899/10871.py) |백준 10871|
 | 13458 | 시험 감독 | [문제 바로가기](https://www.acmicpc.net/problem/13458) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/13400~13499/13458.py) |백준 13458|
 
