@@ -39,6 +39,7 @@
 [2869](https://github.com/francisBae/boj-algorithm-study/blob/master/2800~2899/2869.py)
 [2884](https://github.com/francisBae/boj-algorithm-study/blob/master/2800~2899/2884.py)
 [3190](https://github.com/francisBae/boj-algorithm-study/blob/master/3100~3199/3190.py)
+[4153](https://github.com/francisBae/boj-algorithm-study/blob/master/4100~4199/4153.py)
 [4948](https://github.com/francisBae/boj-algorithm-study/blob/master/4900~4999/4948.py)
 [10430](https://github.com/francisBae/boj-algorithm-study/blob/master/10400~10499/10430.py)
 [10869](https://github.com/francisBae/boj-algorithm-study/blob/master/10800~10899/10869.py)
@@ -149,6 +150,7 @@
 | 2739 | 구구단 | [문제 바로가기](https://www.acmicpc.net/problem/2739) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2700~2799/2739.py) |백준 2739|
 | 2869 | 달팽이는 올라가고 싶다 | [문제 바로가기](https://www.acmicpc.net/problem/2869) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2800~2899/2869.py) |백준 2869|
 | 2884 | 알람 시계 | [문제 바로가기](https://www.acmicpc.net/problem/2884) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2800~2899/2884.py) |백준 2884|
+| 4153 | 직각삼각형 | [문제 바로가기](https://www.acmicpc.net/problem/4153) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/4100~4199/4153.py) |백준 4153|
 | 4948 | 베르트랑 공준 | [문제 바로가기](https://www.acmicpc.net/problem/4948) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/4900~4999/4948.py) |백준 4948|
 | 10430 | 나머지 | [문제 바로가기](https://www.acmicpc.net/problem/10430) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/10400~10499/10430.py) |백준 10430|
 | 10869 | 사칙연산 | [문제 바로가기](https://www.acmicpc.net/problem/10869) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/10800~10899/10869.py) |백준 10869|
@@ -263,3 +265,8 @@
 |문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
 | :----------: | :----------: | :----------: | :----------: | :----------: |
 | 1764 | 듣보잡 | [문제 바로가기](https://www.acmicpc.net/problem/1764) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1764.py) |백준 1764|
+
+### 기하학
+|문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
+| :----------: | :----------: | :----------: | :----------: | :----------: |
+| 4153 | 직각삼각형 | [문제 바로가기](https://www.acmicpc.net/problem/4153) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/4100~4199/4153.py) |백준 4153|
