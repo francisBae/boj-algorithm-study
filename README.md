@@ -29,6 +29,7 @@
 [1759](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1759.py)
 [1764](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1764.py)
 [1920](https://github.com/francisBae/boj-algorithm-study/blob/master/1900~1999/1920.py)
+[1926](https://github.com/francisBae/boj-algorithm-study/blob/master/1900~1999/1926.py)
 [1986](https://github.com/francisBae/boj-algorithm-study/blob/master/1900~1999/1986.py)
 [2581](https://github.com/francisBae/boj-algorithm-study/blob/master/2500~2599/2581.py)
 [2667](https://github.com/francisBae/boj-algorithm-study/blob/master/2600~2699/2667.py)
@@ -68,6 +69,7 @@
 ### 너비 우선 탐색
 |문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
 | :----------: | :----------: | :----------: | :----------: | :----------: |
+| 1926 | 그림 | [문제 바로가기](https://www.acmicpc.net/problem/1926) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1900~1999/1926.py) |백준 1926|
 | 2667 | 단지번호붙이기 | [문제 바로가기](https://www.acmicpc.net/problem/2667) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2600~2699/2667.py) |백준 2667|
 | 14502 | 연구소 | [문제 바로가기](https://www.acmicpc.net/problem/14502) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/14500~14599/14502.py) |백준 14502|
 
@@ -162,6 +164,7 @@
 |문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
 | :----------: | :----------: | :----------: | :----------: | :----------: |
 | 1058 | 친구 | [문제 바로가기](https://www.acmicpc.net/problem/1058) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1058.py) |백준 1058|
+| 1926 | 그림 | [문제 바로가기](https://www.acmicpc.net/problem/1926) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1900~1999/1926.py) |백준 1926|
 | 2667 | 단지번호붙이기 | [문제 바로가기](https://www.acmicpc.net/problem/2667) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2600~2699/2667.py) |백준 2667|
 | 11403 | 경로 찾기 | [문제 바로가기](https://www.acmicpc.net/problem/11403) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/11400~11499/11403.py) |백준 11403|
 | 14502 | 연구소 | [문제 바로가기](https://www.acmicpc.net/problem/14502) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/14500~14599/14502.py) |백준 14502|
@@ -170,6 +173,7 @@
 |문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
 | :----------: | :----------: | :----------: | :----------: | :----------: |
 | 1058 | 친구 | [문제 바로가기](https://www.acmicpc.net/problem/1058) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1058.py) |백준 1058|
+| 1926 | 그림 | [문제 바로가기](https://www.acmicpc.net/problem/1926) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1900~1999/1926.py) |백준 1926|
 | 2667 | 단지번호붙이기 | [문제 바로가기](https://www.acmicpc.net/problem/2667) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2600~2699/2667.py) |백준 2667|
 | 14502 | 연구소 | [문제 바로가기](https://www.acmicpc.net/problem/14502) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/14500~14599/14502.py) |백준 14502|
 
@@ -240,6 +244,7 @@
 |문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
 | :----------: | :----------: | :----------: | :----------: | :----------: |
 | 1058 | 친구 | [문제 바로가기](https://www.acmicpc.net/problem/1058) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1058.py) |백준 1058|
+| 1926 | 그림 | [문제 바로가기](https://www.acmicpc.net/problem/1926) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1900~1999/1926.py) |백준 1926|
 | 2667 | 단지번호붙이기 | [문제 바로가기](https://www.acmicpc.net/problem/2667) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2600~2699/2667.py) |백준 2667|
 
 ### 조합론
