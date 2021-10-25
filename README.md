@@ -30,6 +30,7 @@
 [1764](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1764.py)
 [1920](https://github.com/francisBae/boj-algorithm-study/blob/master/1900~1999/1920.py)
 [1926](https://github.com/francisBae/boj-algorithm-study/blob/master/1900~1999/1926.py)
+[1929](https://github.com/francisBae/boj-algorithm-study/blob/master/1900~1999/1929.py)
 [1986](https://github.com/francisBae/boj-algorithm-study/blob/master/1900~1999/1986.py)
 [2581](https://github.com/francisBae/boj-algorithm-study/blob/master/2500~2599/2581.py)
 [2667](https://github.com/francisBae/boj-algorithm-study/blob/master/2600~2699/2667.py)
@@ -147,6 +148,7 @@
 | 1712 | 손익분기점 | [문제 바로가기](https://www.acmicpc.net/problem/1712) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1712.py) |백준 1712|
 | 1747 | 소수&팰린드롬 | [문제 바로가기](https://www.acmicpc.net/problem/1747) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1747.py) |백준 1747|
 | 1759 | 암호 만들기 | [문제 바로가기](https://www.acmicpc.net/problem/1759) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1759.py) |백준 1759|
+| 1929 | 소수 구하기 | [문제 바로가기](https://www.acmicpc.net/problem/1929) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1900~1999/1929.py) |백준 1929|
 | 2753 | 윤년 | [문제 바로가기](https://www.acmicpc.net/problem/2753) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2700~2799/2753.py) |백준 2753|
 | 2581 | 소수 | [문제 바로가기](https://www.acmicpc.net/problem/2581) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2500~2599/2581.py) |백준 2581|
 | 2739 | 구구단 | [문제 바로가기](https://www.acmicpc.net/problem/2739) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2700~2799/2739.py) |백준 2739|
@@ -222,6 +224,7 @@
 | 1016 | 제곱ㄴㄴ수 | [문제 바로가기](https://www.acmicpc.net/problem/1016) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1016.py) |백준 1016|
 | 1037 | 약수 | [문제 바로가기](https://www.acmicpc.net/problem/1037) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1037.py) |백준 1037|
 | 1747 | 소수&팰린드롬 | [문제 바로가기](https://www.acmicpc.net/problem/1747) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1747.py) |백준 1747|
+| 1929 | 소수 구하기 | [문제 바로가기](https://www.acmicpc.net/problem/1929) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1900~1999/1929.py) |백준 1929|
 | 2581 | 소수 | [문제 바로가기](https://www.acmicpc.net/problem/2581) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2500~2599/2581.py) |백준 2581|
 | 4948 | 베르트랑 공준 | [문제 바로가기](https://www.acmicpc.net/problem/4948) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/4900~4999/4948.py) |백준 4948|
 
@@ -230,6 +233,7 @@
 | :----------: | :----------: | :----------: | :----------: | :----------: |
 | 1016 | 제곱ㄴㄴ수 | [문제 바로가기](https://www.acmicpc.net/problem/1016) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1016.py) |백준 1016|
 | 1747 | 소수&팰린드롬 | [문제 바로가기](https://www.acmicpc.net/problem/1747) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1747.py) |백준 1747|
+| 1929 | 소수 구하기 | [문제 바로가기](https://www.acmicpc.net/problem/1929) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1900~1999/1929.py) |백준 1929|
 | 2581 | 소수 | [문제 바로가기](https://www.acmicpc.net/problem/2581) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2500~2599/2581.py) |백준 2581|
 | 4948 | 베르트랑 공준 | [문제 바로가기](https://www.acmicpc.net/problem/4948) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/4900~4999/4948.py) |백준 4948|
 
@@ -238,6 +242,7 @@
 | :----------: | :----------: | :----------: | :----------: | :----------: |
 | 1016 | 제곱ㄴㄴ수 | [문제 바로가기](https://www.acmicpc.net/problem/1016) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1016.py) |백준 1016|
 | 1747 | 소수&팰린드롬 | [문제 바로가기](https://www.acmicpc.net/problem/1747) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1747.py) |백준 1747|
+| 1929 | 소수 구하기 | [문제 바로가기](https://www.acmicpc.net/problem/1929) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1900~1999/1929.py) |백준 1929|
 | 4948 | 베르트랑 공준 | [문제 바로가기](https://www.acmicpc.net/problem/4948) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/4900~4999/4948.py) |백준 4948|
 
 ### 깊이 우선 탐색
