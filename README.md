@@ -18,6 +18,7 @@
 [1058](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1058.py)
 [1076](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1076.py)
 [1152](https://github.com/francisBae/boj-algorithm-study/blob/master/1100~1199/1152.py)
+[1157](https://github.com/francisBae/boj-algorithm-study/blob/master/1100~1199/1157.py)
 [1181](https://github.com/francisBae/boj-algorithm-study/blob/master/1100~1199/1181.py)
 [1225](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1225.py)
 [1251](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1251.py)
@@ -78,6 +79,7 @@
 |문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
 | :----------: | :----------: | :----------: | :----------: | :----------: |
 | 1152 | 단어의 개수 | [문제 바로가기](https://www.acmicpc.net/problem/1152) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1100~1199/1152.py) |백준 1152|
+| 1157 | 단어 공부 | [문제 바로가기](https://www.acmicpc.net/problem/1157) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1100~1199/1157.py) |백준 1157|
 | 1225 | 이상한 곱셈 | [문제 바로가기](https://www.acmicpc.net/problem/1225) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1225.py) |백준 1225|
 | 1251 | 단어 나누기 | [문제 바로가기](https://www.acmicpc.net/problem/1251) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1251.py) |백준 1251|
 | 1764 | 듣보잡 | [문제 바로가기](https://www.acmicpc.net/problem/1764) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1764.py) |백준 1764|
@@ -90,6 +92,7 @@
 | 1009 | 분산처리 | [문제 바로가기](https://www.acmicpc.net/problem/1009) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1009.py) |백준 1009|
 | 1051 | 숫자 정사각형 | [문제 바로가기](https://www.acmicpc.net/problem/1051) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1051.py) |백준 1051|
 | 1076 | 저항 | [문제 바로가기](https://www.acmicpc.net/problem/1076) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1076.py) |백준 1076|
+| 1157 | 단어 공부 | [문제 바로가기](https://www.acmicpc.net/problem/1157) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1100~1199/1157.py) |백준 1157|
 | 1225 | 이상한 곱셈 | [문제 바로가기](https://www.acmicpc.net/problem/1225) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1225.py) |백준 1225|
 | 1251 | 단어 나누기 | [문제 바로가기](https://www.acmicpc.net/problem/1251) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1251.py) |백준 1251|
 | 1986 | 체스 | [문제 바로가기](https://www.acmicpc.net/problem/1986) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1900~1999/1986.py) |백준 1986|
