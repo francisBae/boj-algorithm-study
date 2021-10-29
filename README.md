@@ -23,6 +23,7 @@
 [1225](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1225.py)
 [1251](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1251.py)
 [1267](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1267.py)
+[1350](https://github.com/francisBae/boj-algorithm-study/blob/master/1300~1399/1350.py)
 [1463](https://github.com/francisBae/boj-algorithm-study/blob/master/1400~1499/1463.py)
 [1500](https://github.com/francisBae/boj-algorithm-study/blob/master/1500~1599/1500.py)
 [1712](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1712.py)
@@ -129,6 +130,7 @@
 | :----------: | :----------: | :----------: | :----------: | :----------: |
 | 1008 | A/B | [문제 바로가기](https://www.acmicpc.net/problem/1008) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1008.py) |백준 1008|
 | 1267 | 핸드폰 요금 | [문제 바로가기](https://www.acmicpc.net/problem/1267) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1267.py) |백준 1267|
+| 1350 | 진짜 공간 | [문제 바로가기](https://www.acmicpc.net/problem/1350) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1300~1399/1350.py) |백준 1350|
 | 1712 | 손익분기점 | [문제 바로가기](https://www.acmicpc.net/problem/1712) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1712.py) |백준 1712|
 | 2739 | 구구단 | [문제 바로가기](https://www.acmicpc.net/problem/2739) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2700~2799/2739.py) |백준 2739|
 | 2884 | 알람 시계 | [문제 바로가기](https://www.acmicpc.net/problem/2884) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2800~2899/2884.py) |백준 2884|
@@ -147,6 +149,7 @@
 | 1037 | 약수 | [문제 바로가기](https://www.acmicpc.net/problem/1037) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1037.py) |백준 1037|
 | 1225 | 이상한 곱셈 | [문제 바로가기](https://www.acmicpc.net/problem/1225) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1225.py) |백준 1225|
 | 1267 | 핸드폰 요금 | [문제 바로가기](https://www.acmicpc.net/problem/1267) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1267.py) |백준 1267|
+| 1350 | 진짜 공간 | [문제 바로가기](https://www.acmicpc.net/problem/1350) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1300~1399/1350.py) |백준 1350|
 | 1500 | 최대 곱 | [문제 바로가기](https://www.acmicpc.net/problem/1500) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1500~1599/1500.py) |백준 1500|
 | 1712 | 손익분기점 | [문제 바로가기](https://www.acmicpc.net/problem/1712) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1712.py) |백준 1712|
 | 1747 | 소수&팰린드롬 | [문제 바로가기](https://www.acmicpc.net/problem/1747) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1747.py) |백준 1747|
