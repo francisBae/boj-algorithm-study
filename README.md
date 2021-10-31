@@ -45,6 +45,7 @@
 [3190](https://github.com/francisBae/boj-algorithm-study/blob/master/3100~3199/3190.py)
 [4153](https://github.com/francisBae/boj-algorithm-study/blob/master/4100~4199/4153.py)
 [4948](https://github.com/francisBae/boj-algorithm-study/blob/master/4900~4999/4948.py)
+[6588](https://github.com/francisBae/boj-algorithm-study/blob/master/6500~6599/6588.py)
 [9461](https://github.com/francisBae/boj-algorithm-study/blob/master/9400~9499/9461.py)
 [10430](https://github.com/francisBae/boj-algorithm-study/blob/master/10400~10499/10430.py)
 [10869](https://github.com/francisBae/boj-algorithm-study/blob/master/10800~10899/10869.py)
@@ -164,6 +165,7 @@
 | 2884 | 알람 시계 | [문제 바로가기](https://www.acmicpc.net/problem/2884) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2800~2899/2884.py) |백준 2884|
 | 4153 | 직각삼각형 | [문제 바로가기](https://www.acmicpc.net/problem/4153) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/4100~4199/4153.py) |백준 4153|
 | 4948 | 베르트랑 공준 | [문제 바로가기](https://www.acmicpc.net/problem/4948) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/4900~4999/4948.py) |백준 4948|
+| 6588 | 골드바흐의 추측 | [문제 바로가기](https://www.acmicpc.net/problem/6588) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/6500~6599/6588.py) |백준 6588|
 | 9461 | 파도반 수열 | [문제 바로가기](https://www.acmicpc.net/problem/9461) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/9400~9499/9461.py) |백준 9461|
 | 10430 | 나머지 | [문제 바로가기](https://www.acmicpc.net/problem/10430) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/10400~10499/10430.py) |백준 10430|
 | 10869 | 사칙연산 | [문제 바로가기](https://www.acmicpc.net/problem/10869) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/10800~10899/10869.py) |백준 10869|
@@ -236,6 +238,7 @@
 | 1929 | 소수 구하기 | [문제 바로가기](https://www.acmicpc.net/problem/1929) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1900~1999/1929.py) |백준 1929|
 | 2581 | 소수 | [문제 바로가기](https://www.acmicpc.net/problem/2581) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2500~2599/2581.py) |백준 2581|
 | 4948 | 베르트랑 공준 | [문제 바로가기](https://www.acmicpc.net/problem/4948) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/4900~4999/4948.py) |백준 4948|
+| 6588 | 골드바흐의 추측 | [문제 바로가기](https://www.acmicpc.net/problem/6588) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/6500~6599/6588.py) |백준 6588|
 
 ### 소수 판정
 |문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
@@ -245,6 +248,7 @@
 | 1929 | 소수 구하기 | [문제 바로가기](https://www.acmicpc.net/problem/1929) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1900~1999/1929.py) |백준 1929|
 | 2581 | 소수 | [문제 바로가기](https://www.acmicpc.net/problem/2581) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2500~2599/2581.py) |백준 2581|
 | 4948 | 베르트랑 공준 | [문제 바로가기](https://www.acmicpc.net/problem/4948) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/4900~4999/4948.py) |백준 4948|
+| 6588 | 골드바흐의 추측 | [문제 바로가기](https://www.acmicpc.net/problem/6588) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/6500~6599/6588.py) |백준 6588|
 
 ### 에라토스테네스의 체
 |문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
@@ -253,6 +257,7 @@
 | 1747 | 소수&팰린드롬 | [문제 바로가기](https://www.acmicpc.net/problem/1747) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1747.py) |백준 1747|
 | 1929 | 소수 구하기 | [문제 바로가기](https://www.acmicpc.net/problem/1929) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1900~1999/1929.py) |백준 1929|
 | 4948 | 베르트랑 공준 | [문제 바로가기](https://www.acmicpc.net/problem/4948) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/4900~4999/4948.py) |백준 4948|
+| 6588 | 골드바흐의 추측 | [문제 바로가기](https://www.acmicpc.net/problem/6588) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/6500~6599/6588.py) |백준 6588|
 
 ### 깊이 우선 탐색
 |문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
