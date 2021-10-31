@@ -45,6 +45,7 @@
 [3190](https://github.com/francisBae/boj-algorithm-study/blob/master/3100~3199/3190.py)
 [4153](https://github.com/francisBae/boj-algorithm-study/blob/master/4100~4199/4153.py)
 [4948](https://github.com/francisBae/boj-algorithm-study/blob/master/4900~4999/4948.py)
+[9461](https://github.com/francisBae/boj-algorithm-study/blob/master/9400~9499/9461.py)
 [10430](https://github.com/francisBae/boj-algorithm-study/blob/master/10400~10499/10430.py)
 [10869](https://github.com/francisBae/boj-algorithm-study/blob/master/10800~10899/10869.py)
 [10871](https://github.com/francisBae/boj-algorithm-study/blob/master/10800~10899/10871.py)
@@ -67,6 +68,7 @@
 | 1010 | 다리 놓기 | [문제 바로가기](https://www.acmicpc.net/problem/1010) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1010.py) |백준 1010|
 | 1463 | 1로 만들기 | [문제 바로가기](https://www.acmicpc.net/problem/1463) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1400~1499/1463.py) |백준 1463|
 | 2839 | 설탕 배달 | [문제 바로가기](https://www.acmicpc.net/problem/2839) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2800~2899/2839.py) |백준 2839|
+| 9461 | 파도반 수열 | [문제 바로가기](https://www.acmicpc.net/problem/9461) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/9400~9499/9461.py) |백준 9461|
 | 17626 | Four Squares | [문제 바로가기](https://www.acmicpc.net/problem/17626) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/17600~17699/17626.py) |백준 17626|
 
 ### 너비 우선 탐색
@@ -162,6 +164,7 @@
 | 2884 | 알람 시계 | [문제 바로가기](https://www.acmicpc.net/problem/2884) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2800~2899/2884.py) |백준 2884|
 | 4153 | 직각삼각형 | [문제 바로가기](https://www.acmicpc.net/problem/4153) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/4100~4199/4153.py) |백준 4153|
 | 4948 | 베르트랑 공준 | [문제 바로가기](https://www.acmicpc.net/problem/4948) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/4900~4999/4948.py) |백준 4948|
+| 9461 | 파도반 수열 | [문제 바로가기](https://www.acmicpc.net/problem/9461) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/9400~9499/9461.py) |백준 9461|
 | 10430 | 나머지 | [문제 바로가기](https://www.acmicpc.net/problem/10430) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/10400~10499/10430.py) |백준 10430|
 | 10869 | 사칙연산 | [문제 바로가기](https://www.acmicpc.net/problem/10869) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/10800~10899/10869.py) |백준 10869|
 | 10871 | X보다 작은 수 | [문제 바로가기](https://www.acmicpc.net/problem/10871) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/10800~10899/10871.py) |백준 10871|
