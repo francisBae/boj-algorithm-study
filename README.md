@@ -20,6 +20,7 @@
 [1152](https://github.com/francisBae/boj-algorithm-study/blob/master/1100~1199/1152.py)
 [1157](https://github.com/francisBae/boj-algorithm-study/blob/master/1100~1199/1157.py)
 [1181](https://github.com/francisBae/boj-algorithm-study/blob/master/1100~1199/1181.py)
+[1212](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1212.py)
 [1225](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1225.py)
 [1251](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1251.py)
 [1259](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1259.py)
@@ -86,6 +87,7 @@
 | :----------: | :----------: | :----------: | :----------: | :----------: |
 | 1152 | 단어의 개수 | [문제 바로가기](https://www.acmicpc.net/problem/1152) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1100~1199/1152.py) |백준 1152|
 | 1157 | 단어 공부 | [문제 바로가기](https://www.acmicpc.net/problem/1157) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1100~1199/1157.py) |백준 1157|
+| 1212 | 8진수 2진수 | [문제 바로가기](https://www.acmicpc.net/problem/1212) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1212.py) |백준 1212|
 | 1225 | 이상한 곱셈 | [문제 바로가기](https://www.acmicpc.net/problem/1225) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1225.py) |백준 1225|
 | 1251 | 단어 나누기 | [문제 바로가기](https://www.acmicpc.net/problem/1251) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1251.py) |백준 1251|
 | 1259 | 팰린드롬수 | [문제 바로가기](https://www.acmicpc.net/problem/1259) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1259.py) |백준 1259|
@@ -100,6 +102,7 @@
 | 1051 | 숫자 정사각형 | [문제 바로가기](https://www.acmicpc.net/problem/1051) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1051.py) |백준 1051|
 | 1076 | 저항 | [문제 바로가기](https://www.acmicpc.net/problem/1076) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1076.py) |백준 1076|
 | 1157 | 단어 공부 | [문제 바로가기](https://www.acmicpc.net/problem/1157) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1100~1199/1157.py) |백준 1157|
+| 1212 | 8진수 2진수 | [문제 바로가기](https://www.acmicpc.net/problem/1212) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1212.py) |백준 1212|
 | 1225 | 이상한 곱셈 | [문제 바로가기](https://www.acmicpc.net/problem/1225) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1225.py) |백준 1225|
 | 1251 | 단어 나누기 | [문제 바로가기](https://www.acmicpc.net/problem/1251) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1251.py) |백준 1251|
 | 1259 | 팰린드롬수 | [문제 바로가기](https://www.acmicpc.net/problem/1259) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1259.py) |백준 1259|
@@ -154,6 +157,7 @@
 | 1016 | 제곱ㄴㄴ수 | [문제 바로가기](https://www.acmicpc.net/problem/1016) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1016.py) |백준 1016|
 | 1024 | 수열의 합 | [문제 바로가기](https://www.acmicpc.net/problem/1024) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1024.py) |백준 1024|
 | 1037 | 약수 | [문제 바로가기](https://www.acmicpc.net/problem/1037) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1037.py) |백준 1037|
+| 1212 | 8진수 2진수 | [문제 바로가기](https://www.acmicpc.net/problem/1212) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1212.py) |백준 1212|
 | 1225 | 이상한 곱셈 | [문제 바로가기](https://www.acmicpc.net/problem/1225) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1225.py) |백준 1225|
 | 1267 | 핸드폰 요금 | [문제 바로가기](https://www.acmicpc.net/problem/1267) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1267.py) |백준 1267|
 | 1350 | 진짜 공간 | [문제 바로가기](https://www.acmicpc.net/problem/1350) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1300~1399/1350.py) |백준 1350|
