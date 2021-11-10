@@ -30,6 +30,7 @@
 [1292](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1292.py)
 [1302](https://github.com/francisBae/boj-algorithm-study/blob/master/1300~1399/1302.py)
 [1350](https://github.com/francisBae/boj-algorithm-study/blob/master/1300~1399/1350.py)
+[1453](https://github.com/francisBae/boj-algorithm-study/blob/master/1400~1499/1453.py)
 [1463](https://github.com/francisBae/boj-algorithm-study/blob/master/1400~1499/1463.py)
 [1500](https://github.com/francisBae/boj-algorithm-study/blob/master/1500~1599/1500.py)
 [1712](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1712.py)
@@ -51,6 +52,7 @@
 [3190](https://github.com/francisBae/boj-algorithm-study/blob/master/3100~3199/3190.py)
 [4153](https://github.com/francisBae/boj-algorithm-study/blob/master/4100~4199/4153.py)
 [4948](https://github.com/francisBae/boj-algorithm-study/blob/master/4900~4999/4948.py)
+[5988](https://github.com/francisBae/boj-algorithm-study/blob/master/5900~5999/5988.py)
 [6588](https://github.com/francisBae/boj-algorithm-study/blob/master/6500~6599/6588.py)
 [9461](https://github.com/francisBae/boj-algorithm-study/blob/master/9400~9499/9461.py)
 [10430](https://github.com/francisBae/boj-algorithm-study/blob/master/10400~10499/10430.py)
@@ -110,6 +112,7 @@
 | 1251 | 단어 나누기 | [문제 바로가기](https://www.acmicpc.net/problem/1251) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1251.py) |백준 1251|
 | 1259 | 팰린드롬수 | [문제 바로가기](https://www.acmicpc.net/problem/1259) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1259.py) |백준 1259|
 | 1292 | 쉽게 푸는 문제 | [문제 바로가기](https://www.acmicpc.net/problem/1292) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1200~1299/1292.py) |백준 1292|
+| 1453 | 피시방 알바 | [문제 바로가기](https://www.acmicpc.net/problem/1453) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1400~1499/1453.py) |백준 1453|
 | 1986 | 체스 | [문제 바로가기](https://www.acmicpc.net/problem/1986) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1900~1999/1986.py) |백준 1986|
 | 2739 | 구구단 | [문제 바로가기](https://www.acmicpc.net/problem/2739) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2700~2799/2739.py) |백준 2739|
 | 2753 | 윤년 | [문제 바로가기](https://www.acmicpc.net/problem/2753) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2700~2799/2753.py) |백준 2753|
@@ -149,6 +152,7 @@
 | 1712 | 손익분기점 | [문제 바로가기](https://www.acmicpc.net/problem/1712) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1700~1799/1712.py) |백준 1712|
 | 2739 | 구구단 | [문제 바로가기](https://www.acmicpc.net/problem/2739) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2700~2799/2739.py) |백준 2739|
 | 2884 | 알람 시계 | [문제 바로가기](https://www.acmicpc.net/problem/2884) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2800~2899/2884.py) |백준 2884|
+| 5988 | 홀수일까 짝수일까 | [문제 바로가기](https://www.acmicpc.net/problem/5988) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/5900~5999/5988.py) |백준 5988|
 | 10430 | 나머지 | [문제 바로가기](https://www.acmicpc.net/problem/10430) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/10400~10499/10430.py) |백준 10430|
 | 10869 | 사칙연산 | [문제 바로가기](https://www.acmicpc.net/problem/10869) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/10800~10899/10869.py) |백준 10869|
 | 11720 | 숫자의 합 | [문제 바로가기](https://www.acmicpc.net/problem/11720) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/11700~11799/11720.py) |백준 11720|
@@ -181,6 +185,7 @@
 | 2884 | 알람 시계 | [문제 바로가기](https://www.acmicpc.net/problem/2884) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/2800~2899/2884.py) |백준 2884|
 | 4153 | 직각삼각형 | [문제 바로가기](https://www.acmicpc.net/problem/4153) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/4100~4199/4153.py) |백준 4153|
 | 4948 | 베르트랑 공준 | [문제 바로가기](https://www.acmicpc.net/problem/4948) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/4900~4999/4948.py) |백준 4948|
+| 5988 | 홀수일까 짝수일까 | [문제 바로가기](https://www.acmicpc.net/problem/5988) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/5900~5999/5988.py) |백준 5988|
 | 6588 | 골드바흐의 추측 | [문제 바로가기](https://www.acmicpc.net/problem/6588) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/6500~6599/6588.py) |백준 6588|
 | 9461 | 파도반 수열 | [문제 바로가기](https://www.acmicpc.net/problem/9461) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/9400~9499/9461.py) |백준 9461|
 | 10430 | 나머지 | [문제 바로가기](https://www.acmicpc.net/problem/10430) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/10400~10499/10430.py) |백준 10430|
@@ -315,3 +320,8 @@
 | :----------: | :----------: | :----------: | :----------: | :----------: |
 | 1085 | 직사각형에서 탈출 | [문제 바로가기](https://www.acmicpc.net/problem/1085) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/1000~1099/1085.py) |백준 1085|
 | 4153 | 직각삼각형 | [문제 바로가기](https://www.acmicpc.net/problem/4153) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/4100~4199/4153.py) |백준 4153|
+
+### 임의 정밀도 / 큰 수 연산
+|문제 | 문제 제목 | 문제 링크 | 내 풀이 | 키워드|
+| :----------: | :----------: | :----------: | :----------: | :----------: |
+| 5988 | 홀수일까 짝수일까 | [문제 바로가기](https://www.acmicpc.net/problem/5988) | [풀이 바로가기](https://github.com/francisBae/boj-algorithm-study/blob/master/5900~5999/5988.py) |백준 5988|
